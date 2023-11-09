@@ -15,6 +15,7 @@ Sanasta riippuen suomalaisessa materiaalissa saatetaan käyttää useitakin kilp
 * [Tietoturva](tietoturvasanasto.md)
 * [Yleinen](yleinen-sanasto.md)
 * [Selkosanasto](selkosanasto.pdf)
+* [Tietorakenteet ja algoritmit](tirakirja.pdf)
 
 
 ### Ulkopuoliset lähteet
