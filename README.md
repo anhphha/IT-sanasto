@@ -36,3 +36,6 @@ Sanasta riippuen suomalaisessa materiaalissa saatetaan käyttää useitakin kilp
 - [selkosanasto.pdf](https://blogs.helsinki.fi/monatta-hanke/files/2011/05/selkosanasto.pdf)
 - [Tietotekniikkasanasto](https://rikun.net/sanasto/)
 - [Wiktionary - Luokka:Suomen kielen tietotekniikan sanasto](https://fi.wiktionary.org/wiki/Luokka:Suomen_kielen_tietotekniikan_sanasto)
+  
+- [Datasanasto](https://www.tietoevry.com/fi/uutishuone/kaikki-uutiset-ja-tiedotteet/blogi/2020/ota-datamaailman-termit-haltuun-datasanaston-avulla/)
+- [Datan varaston ja pilvipalvelun sanasto](https://www.tietoevry.com/fi/blogi/2021/06/datan-analytiikka-alustat-pilvessa--big-dataa-varastoissa-ja-altaissa/)
