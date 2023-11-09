@@ -14,6 +14,7 @@ Sanasta riippuen suomalaisessa materiaalissa saatetaan käyttää useitakin kilp
 * [Ohjelmointi](ohjelmointisanasto.md)
 * [Tietoturva](tietoturvasanasto.md)
 * [Yleinen](yleinen-sanasto.md)
+* [Selkosanasto](selkosanasto.pdf)
 
 
 ### Ulkopuoliset lähteet
@@ -26,3 +27,10 @@ Sanasta riippuen suomalaisessa materiaalissa saatetaan käyttää useitakin kilp
 - Sanastokeskus TSK ry - [Tietotekniikan termitalkoot](http://www.tsk.fi/tsk/termitalkoot/)
 - [Techopedia](https://www.techopedia.com)
 - [Git- ja GitHub-sanasto](https://www.cs.helsinki.fi/u/hisahi/sanastot/git_github.html)
+
+### Muut Ulkopuoliset lähteet
+- [sivutot.net - Tietotekniikan sanastoa, mukana wanhaakin tietoa](http://www.sivustot.net/e/sanasto.html)
+- [sivutot.net - Tietokone tekniikan sanakirja](http://www.sivustot.net/e/sa/)
+- [Tietorakenteet ja algoritmit -kirja](https://www.cs.helsinki.fi/u/ahslaaks/tirakirja/)
+- [selkosanasto.pdf](https://blogs.helsinki.fi/monatta-hanke/files/2011/05/selkosanasto.pdf)
+- [Tietotekniikkasanasto](https://rikun.net/sanasto/)
