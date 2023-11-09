@@ -20,7 +20,7 @@ Sanasta riippuen suomalaisessa materiaalissa saatetaan käyttää useitakin kilp
 
 - Olioiden ohjelmointi C++:lla - © 2012 Matti Rintala ja Jyke Jokinen ([Creative Commons Nimeä-Ei muutoksia-Epäkaupallinen 1.0 Suomi](http://creativecommons.org/licenses/by-nd-nc/1.0/fi/))
 - [Jyväskylän yliopisto Digipalvelut - Tietotekniikan sanasto](https://www.jyu.fi/digipalvelut/fi/ohjeet/sanasto)
-- [Krimaka.net - Tietotekniikan sanasto](http://www.krimaka.net/tietotekniikka/tietokone-ja-muut/tietotekniikan-sanasto.html)
+- [Krimaka.net - Tietotekniikan sanasto](https://krimaka.net/tietotekniikka/tietokone-ja-muut/tietotekniikan-sanasto.html)
 - [Wikisanakirja](https://fi.wiktionary.org)
 - [Wikipedia](https://fi.wikipedia.org)
 - Sanastokeskus TSK ry - [Tietotekniikan termitalkoot](http://www.tsk.fi/tsk/termitalkoot/)
